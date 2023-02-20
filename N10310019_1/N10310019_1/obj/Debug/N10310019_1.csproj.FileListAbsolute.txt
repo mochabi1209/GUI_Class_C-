@@ -1,0 +1,10 @@
+C:\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.exe.config
+C:\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.exe
+C:\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.pdb
+C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.AssemblyReference.cache
+C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Properties.Resources.resources
+C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.GenerateResource.cache
+C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.CoreCompileInputs.cache
+C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.exe
+C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.pdb
+C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form1.resources
