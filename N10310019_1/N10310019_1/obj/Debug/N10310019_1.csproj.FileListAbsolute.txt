@@ -8,3 +8,13 @@ C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.CoreCompile
 C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.exe
 C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.pdb
 C:\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form1.resources
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form1.resources
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.exe
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.pdb
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.exe.config
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.exe
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.pdb
