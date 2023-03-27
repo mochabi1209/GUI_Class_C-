@@ -25,5 +25,36 @@ namespace N10310019_1
                 button1.Text = "請按我一下!";
             
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+                
+           label1.Text = "^.^";
+                
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string temp = label2.Text;
+            int count = 0;
+            count = Int32.Parse(temp) + 1;
+            label2.Text = "0";
+            label2.Text = count + "";
+            label2.Text = count.ToString();
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            short sizeNum = 10;
+            CenterToParent();
+            button4.Size = new Size(button4.Width + sizeNum, button4.Height + sizeNum); ;
+        }
     }
 }

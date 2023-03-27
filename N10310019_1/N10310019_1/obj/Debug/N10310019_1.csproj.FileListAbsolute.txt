@@ -29,3 +29,14 @@ E:\MUST\Year2\視窗設計程式\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\
 E:\MUST\Year2\視窗設計程式\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.exe
 E:\MUST\Year2\視窗設計程式\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.pdb
 E:\MUST\Year2\視窗設計程式\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form_button.resources
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.exe.config
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.exe
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\bin\Debug\N10310019_1.pdb
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form1.resources
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form_button.resources
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Properties.Resources.resources
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.GenerateResource.cache
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.exe
+C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.pdb
