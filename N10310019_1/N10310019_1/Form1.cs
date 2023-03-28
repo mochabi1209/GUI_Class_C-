@@ -53,5 +53,11 @@ namespace N10310019_1
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form hwnewform = new Form2();
+            hwnewform.Show();
+        }
     }
 }

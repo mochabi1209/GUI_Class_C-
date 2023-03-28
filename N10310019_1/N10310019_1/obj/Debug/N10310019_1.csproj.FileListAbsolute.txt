@@ -40,3 +40,4 @@ C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N1031001
 C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.CoreCompileInputs.cache
 C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.exe
 C:\Users\MEGAS\Downloads\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.pdb
+E:\MUST\Year2\視窗設計程式\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form2.resources

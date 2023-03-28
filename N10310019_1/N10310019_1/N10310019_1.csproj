@@ -54,6 +54,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="HW_MinusAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HW_MinusAdd.Designer.cs">
+      <DependentUpon>HW_MinusAdd.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_button.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +73,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_button.resx">
       <DependentUpon>Form_button.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HW_MinusAdd.resx">
+      <DependentUpon>HW_MinusAdd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
