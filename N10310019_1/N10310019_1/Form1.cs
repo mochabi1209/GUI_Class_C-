@@ -65,5 +65,11 @@ namespace N10310019_1
             Form form_TextBox = new Form_TextBox();
             form_TextBox.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form form_Mid = new Form_MidTerm();
+            form_Mid.Show();
+        }
     }
 }

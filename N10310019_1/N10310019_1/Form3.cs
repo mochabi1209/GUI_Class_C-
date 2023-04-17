@@ -34,5 +34,10 @@ namespace N10310019_1
             int input = Int32.Parse(str1);
             lab_result.Text = (input +10 ).ToString();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
