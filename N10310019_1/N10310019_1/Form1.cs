@@ -71,5 +71,11 @@ namespace N10310019_1
             Form form_Mid = new Form_MidTerm();
             form_Mid.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form form_Ex = new Form_Exception();
+            form_Ex.Show();
+        }
     }
 }
