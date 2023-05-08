@@ -33,13 +33,13 @@ namespace N10310019_1
             }
             catch(SystemException)
             {
-                MessageBox.Show("Please insert number!");
+                MessageBox.Show("請輸入數字");
                 add1 = 0;
                 add2 = 0;
             }
             finally
             {
-               
+                MessageBox.Show("Try-Catch結束");
             }
             label_result.Text = (add1 + add2).ToString();
         }

@@ -77,5 +77,11 @@ namespace N10310019_1
             Form form_Ex = new Form_Exception();
             form_Ex.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form form_timer = new Form_timer();
+            form_timer.Show();
+        }
     }
 }

@@ -72,6 +72,12 @@
     <Compile Include="Form5.Designer.cs">
       <DependentUpon>Form5.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_timer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_timer.Designer.cs">
+      <DependentUpon>Form_timer.cs</DependentUpon>
+    </Compile>
     <Compile Include="HW_MinusAdd.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +112,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_button.resx">
       <DependentUpon>Form_button.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_timer.resx">
+      <DependentUpon>Form_timer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="HW_MinusAdd.resx">
       <DependentUpon>HW_MinusAdd.cs</DependentUpon>

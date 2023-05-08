@@ -47,3 +47,4 @@ C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_
 C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form_MidTerm.resources
 C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.MidTermMath.resources
 C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form_Exception.resources
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form_timer.resources
