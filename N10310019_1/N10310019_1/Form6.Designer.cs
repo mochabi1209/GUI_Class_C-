@@ -65,6 +65,7 @@ namespace N10310019_1
             this.button2.TabIndex = 2;
             this.button2.Text = "暫停";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -74,9 +75,11 @@ namespace N10310019_1
             this.button3.TabIndex = 3;
             this.button3.Text = "歸零";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // timer1
             // 
+            this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // Form_HWTimer

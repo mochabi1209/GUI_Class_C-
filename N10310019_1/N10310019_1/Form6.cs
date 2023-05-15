@@ -21,13 +21,23 @@ namespace N10310019_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            timer1.Enabled = true;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
             label1.Text = this.second + "秒";//test
             this.second++;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.second =0;
         }
     }
 }
