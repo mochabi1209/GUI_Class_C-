@@ -10,31 +10,24 @@ using System.Windows.Forms;
 
 namespace N10310019_1
 {
-    public partial class Form_timer : Form
-
+    public partial class Form_HWTimer : Form
     {
         int second = 0;
 
-        public Form_timer()
+        public Form_HWTimer()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
             label1.Text = this.second + "秒";//test
             this.second++;
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form_timer_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

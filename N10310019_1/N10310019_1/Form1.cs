@@ -83,5 +83,17 @@ namespace N10310019_1
             Form form_timer = new Form_timer();
             form_timer.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form form_checkbox = new Form_CheckBox();
+            form_checkbox.Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form form_HWTimer = new Form_HWTimer();
+            form_HWTimer.Show();
+        }
     }
 }

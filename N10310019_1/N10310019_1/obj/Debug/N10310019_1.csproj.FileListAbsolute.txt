@@ -65,3 +65,5 @@ E:\MUST\Year2\視窗設計程式\5.8\GUI_Class_C-\N10310019_1\N10310019_1\obj\De
 E:\MUST\Year2\視窗設計程式\5.8\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.CoreCompileInputs.cache
 E:\MUST\Year2\視窗設計程式\5.8\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.exe
 E:\MUST\Year2\視窗設計程式\5.8\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.pdb
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form_CheckBox.resources
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form_HWTimer.resources

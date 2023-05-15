@@ -58,6 +58,7 @@ namespace N10310019_1
             this.Controls.Add(this.label1);
             this.Name = "Form_timer";
             this.Text = "Form_timer";
+            this.Load += new System.EventHandler(this.Form_timer_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
