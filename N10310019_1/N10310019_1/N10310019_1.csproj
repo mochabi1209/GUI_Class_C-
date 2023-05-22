@@ -84,6 +84,12 @@
     <Compile Include="Form_CheckBox.Designer.cs">
       <DependentUpon>Form_CheckBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Panel.Designer.cs">
+      <DependentUpon>Form_Panel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_timer.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -131,6 +137,9 @@
     <EmbeddedResource Include="Form_CheckBox.resx">
       <DependentUpon>Form_CheckBox.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form_Panel.resx">
+      <DependentUpon>Form_Panel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form_timer.resx">
       <DependentUpon>Form_timer.cs</DependentUpon>
     </EmbeddedResource>
@@ -174,6 +183,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\下載.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1184633031-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-piece-of-strawberry-cake-illustration-image_1406964.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -86,3 +86,4 @@ E:\MUST\Year2\視窗設計程式\5.15\GUI_Class_C-\N10310019_1\N10310019_1\obj\D
 E:\MUST\Year2\視窗設計程式\5.15\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.csproj.CoreCompileInputs.cache
 E:\MUST\Year2\視窗設計程式\5.15\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.exe
 E:\MUST\Year2\視窗設計程式\5.15\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.pdb
+C:\Users\MEGAS\Desktop\GUI_Class_C-\N10310019_1\N10310019_1\obj\Debug\N10310019_1.Form_Panel.resources

@@ -83,6 +83,26 @@ namespace N10310019_1.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_1184633031_612x612 {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-1184633031-612x612", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_piece_of_strawberry_cake_illustration_image_1406964 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-piece-of-strawberry-cake-illustration-image_1406964", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
         internal static System.Drawing.Bitmap 下載 {
             get {
                 object obj = ResourceManager.GetObject("下載", resourceCulture);

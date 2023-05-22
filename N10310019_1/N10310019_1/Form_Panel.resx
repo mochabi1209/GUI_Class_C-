@@ -117,23 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="istockphoto-1184633031-612x612" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\istockphoto-1184633031-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="98b9cf1840ec417d33e79ca3eda57764" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\98b9cf1840ec417d33e79ca3eda57764.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="下載" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\下載.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="下載1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\下載.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pngtree-piece-of-strawberry-cake-illustration-image_1406964" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-piece-of-strawberry-cake-illustration-image_1406964.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

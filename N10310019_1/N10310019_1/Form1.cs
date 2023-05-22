@@ -95,5 +95,11 @@ namespace N10310019_1
             Form form_HWTimer = new Form_HWTimer();
             form_HWTimer.Show();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form form_Panel = new Form_Panel();
+            form_Panel.Show();
+        }
     }
 }
