@@ -26,7 +26,7 @@ namespace N10310019_1
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            label1.Text = this.second + "秒";//test
+            label1.Text = String.Format("{0}秒", second.ToString());
             this.second++;
         }
 
@@ -38,6 +38,7 @@ namespace N10310019_1
         private void button3_Click(object sender, EventArgs e)
         {
             this.second =0;
+            label1.Text = String.Format("{0}秒", second.ToString());
         }
     }
 }
