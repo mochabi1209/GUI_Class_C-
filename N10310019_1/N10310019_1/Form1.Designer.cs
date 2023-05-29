@@ -75,7 +75,7 @@ namespace N10310019_1
             // btn_button
             // 
             this.btn_button.AutoSize = true;
-            this.btn_button.Location = new System.Drawing.Point(596, 208);
+            this.btn_button.Location = new System.Drawing.Point(617, 208);
             this.btn_button.Name = "btn_button";
             this.btn_button.Size = new System.Drawing.Size(79, 23);
             this.btn_button.TabIndex = 4;
@@ -94,7 +94,7 @@ namespace N10310019_1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(487, 202);
+            this.button1.Location = new System.Drawing.Point(519, 202);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(82, 35);
             this.button1.TabIndex = 6;
@@ -104,7 +104,7 @@ namespace N10310019_1
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(487, 283);
+            this.button2.Location = new System.Drawing.Point(519, 283);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 7;
@@ -134,7 +134,7 @@ namespace N10310019_1
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(581, 283);
+            this.button5.Location = new System.Drawing.Point(617, 283);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 10;
@@ -144,7 +144,7 @@ namespace N10310019_1
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(487, 342);
+            this.button6.Location = new System.Drawing.Point(515, 341);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 23);
             this.button6.TabIndex = 11;
@@ -154,7 +154,7 @@ namespace N10310019_1
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(596, 341);
+            this.button7.Location = new System.Drawing.Point(617, 341);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 23);
             this.button7.TabIndex = 12;
@@ -164,11 +164,11 @@ namespace N10310019_1
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(397, 140);
+            this.button8.Location = new System.Drawing.Point(389, 130);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(75, 23);
+            this.button8.Size = new System.Drawing.Size(99, 43);
             this.button8.TabIndex = 13;
-            this.button8.Text = "Panel";
+            this.button8.Text = "Panel_期末專案";
             this.button8.UseVisualStyleBackColor = true;
             this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
