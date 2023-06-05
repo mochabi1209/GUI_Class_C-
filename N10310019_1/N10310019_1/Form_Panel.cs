@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace N10310019_1
 {
@@ -15,6 +16,13 @@ namespace N10310019_1
         public Form_Panel()
         {
             InitializeComponent();
+            File.WriteAllText("Temp.txt", "Hello there:)!\n");
+            File.AppendAllText("Temp.txt", "I'm Min.");
+            String input = File.ReadAllText("Temp.txt");
+            MessageBox.Show(input);
+
+
+
         }
 
         private void Form_Panel_Load(object sender, EventArgs e)
