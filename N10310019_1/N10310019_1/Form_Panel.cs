@@ -16,12 +16,14 @@ namespace N10310019_1
         public Form_Panel()
         {
             InitializeComponent();
+            /*InitializeComponent();
             File.WriteAllText("Temp.txt", "Hello there:)!\n");
             File.AppendAllText("Temp.txt", "I'm Min.");
             String input = File.ReadAllText("Temp.txt");
-            MessageBox.Show(input);
+            MessageBox.Show(input);*/
 
-
+            if (!File.Exists("OrderData.csv"))
+                File.WriteAllText("OrderData.csv", "時間,主食,配餐\n", Encoding.UTF8);
 
         }
 
@@ -55,8 +57,15 @@ namespace N10310019_1
                         sideFood += c.Text + " ";
                     }
                 }
+
             }
-            MessageBox.Show("主食:" + mainFood + Environment.NewLine+ "配菜:" + sideFood);
+
+            DateTime currentDateTime = DateTime.Now;
+            string formateDateTime = currentDateTime.ToString("yyyy/MM/dd HH:mm:ss");
+
+            File.AppendAllText("OrderData.csv", formateDateTime + "," + mainFood + ","+sideFood+"\n");
+
+            MessageBox.Show("點餐成功!");
         }
     }
 }
